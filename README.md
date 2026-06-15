@@ -5,7 +5,7 @@ Computer Science graduate from the **University of Niš**, focused on **Machine 
 🤖 **Currently exploring:** reinforcement learning & recommender systems, the Python data stack, and SQL/NoSQL databases
 🎓 **Bachelor's thesis:** simulating the TikTok recommendation algorithm with Reinforcement Learning (Q-learning)
 🌱 **Always learning:** new tools across the ML and data-engineering workflow
-📫 **Reach me:** [LinkedIn](www.linkedin.com/in/stojkovic-jovana/) · jovanass2000@gmail.com
+📫 **Reach me:** [LinkedIn](www.linkedin.com/in/stojkovic-jovana/) 
 
 ---
 
