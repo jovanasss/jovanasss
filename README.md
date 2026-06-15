@@ -55,6 +55,4 @@ Computer Science graduate from the **University of Niš**, focused on **Machine 
 ---
 
 ## 📊 GitHub Stats
-
-![Jovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovanasss&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanasss&layout=compact&hide_border=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanasss&layout=compact&hide_border=true)
