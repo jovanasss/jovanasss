@@ -16,8 +16,8 @@ Computer Science graduate from the **University of Niš**, focused on **Machine 
 | [**TikTok Recommender**](https://github.com/jovanasss/TikTok-Recommender) | A reinforcement-learning recommender that learns which short video to show next to maximise engagement — custom OpenAI Gym environment, offline Q-learning training, and an online-learning demo *(bachelor's thesis)* | Python, Q-learning, OpenAI Gym, pandas, NumPy |
 | [**TasKing**](https://github.com/jovanasss/TasKing) | Full-stack team & project management app — organizations, teams, projects, tasks and member performance rating, with a REST API and JWT auth | C# / .NET 5, EF Core, SQL Server, React |
 | [**Domineering AI**](https://github.com/jovanasss/Domineering) | The board game Domineering with an AI opponent powered by Minimax search and Alpha-Beta pruning | Python |
-| [**Music Universe**](https://github.com/jovanasss/Music-Universe) | Full-stack music web application built for the Advanced Databases course *(team project)* | JavaScript, C#, NoSQL |
-| [**AIR-Opanci**](https://github.com/jovanasss/Napredne-baze-2.-projekat) | Full-stack web application built for the Advanced Databases course *(team project)* | JavaScript, C#, NoSQL |
+| [**Music Universe**](https://github.com/jovanasss/Music-Universe) | Full-stack music streaming app — songs, artists, likes, subscriptions and charts, modeled as a **graph in Neo4j** with **Redis** caching *(team project)* | React, C# / .NET 5, Neo4j, Redis |
+| [**AIR-Opanci**](https://github.com/jovanasss/Napredne-baze-2.-projekat) | Full-stack footwear marketplace — search & filter, cart, favorites and user-listed models, on a **document data model in MongoDB**  *(team project)* | React, C# / .NET 5, MongoDB  |
 
 ---
 
